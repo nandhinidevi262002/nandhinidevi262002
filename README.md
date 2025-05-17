@@ -9,10 +9,10 @@
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=nitish272003&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nandhinidevi262002&color=blue&style=flat-square" alt="Profile Views" />
 
   <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/nitish272003?style=flat-square&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/nandhinidevi262002?style=flat-square&color=yellow" alt="GitHub Stars" />
 </p>
 
 ---
@@ -122,11 +122,11 @@ I'm a dedicated **Data Science enthusiast**, combining creativity with data-driv
 
 ## 📈 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhinidevi2605&theme=radical&hide_border=true" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhinidevi262002&theme=radical&hide_border=true" alt="GitHub Streak" /> 
   <br /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nandhinidevi2605&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nandhinidevi262002&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
   <br /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhinidevi2605&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhinidevi262002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
 </p>
 
 ---
