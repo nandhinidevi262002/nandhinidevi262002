@@ -20,7 +20,7 @@
 ## 🌟 **About Me**  
 
 ✨ **Who Am I?**  
-I'm a dedicated **Data Science enthusiast**, combining creativity with data-driven solutions. Currently, I'm diving deep into advanced AI models and exploring real-world applications in **e-commerce** and **recommendation systems**.
+I'm a dedicated **Data Science enthusiast**, combining creativity with data-driven solutions. Currently, I'm diving deep into advanced AI models and exploring real-world applications.
 
 ✨ **Quick Facts:**   
 - 🌱 Always learning: **Generative AI**, **Django**, **Machine Learning**, **Deep Learning** and **Streamlit**.  
@@ -32,27 +32,6 @@ I'm a dedicated **Data Science enthusiast**, combining creativity with data-driv
 
 ## 📂 Featured Projects
 
-### **Pediatric Cancer Research Portal**  
-*A Comprehensive Database for Mutation and Clinical Insights*  
-- A German-based ongoing project to build a pediatric mutation database, facilitating the organization and analysis of mutation and clinical data.  
-- Developed lollipop plot visualizations to represent mutation insights clearly, supporting pediatric cancer research.
-
-### **BERT-Driven Framework for Enhanced Sentiment Analysis and E-Commerce Recommendations**  
-- Combines sentiment analysis and collaborative filtering to refine personalized recommendations in e-commerce platforms.  
-- Utilized BERT-based methods and Singular Value Decomposition (SVD) to integrate sentiment insights into recommender systems, improving user preference capture.
-
-### **Modularized Machine Learning Tool Using Streamlit**  
-- Built a comprehensive data science tool with modular features for exploratory data analysis, preprocessing, advanced feature selection, and machine learning model building.  
-- Ensured efficient and adaptable analysis across various datasets.
-
-### **Automated Machine Learning-Based Credit Card Fraud Detection**  
-- Addressed financial losses from increasing credit card fraud by proposing an LSTM model with an attention mechanism.  
-- The solution outperformed traditional methods such as Naive Bayes, GRU, and ANN, demonstrating strong accuracy in detecting fraudulent transactions.
-
-### **Book Lending Platform and Chat Application**  
-- Developed a book lending platform and chat application UI using the Django framework.  
-- Enhanced user experience by integrating HTML, CSS, and Bootstrap.  
-- Implemented efficient book borrowing functionalities and real-time chat features.
 
 ---
 
@@ -75,12 +54,6 @@ I'm a dedicated **Data Science enthusiast**, combining creativity with data-driv
 ### **Frameworks**  
 - Django  
 - Streamlit  
-
-### **AI Tools**  
-- OpenAI  
-- Google Vertex AI  
-- Gemini AI  
-
 
 ----
 ## 🔧 **Technical Toolbox**  
@@ -159,11 +132,6 @@ I'm a dedicated **Data Science enthusiast**, combining creativity with data-driv
 ---
 
 ## 💬 **Let’s Connect!**  
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="image" />
-</p>
-
 <p align="center">  
   <a href="https://www.linkedin.com/in/nandhinidevi2605"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>  
   <a href="mailto:nandhinidevis2023@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
