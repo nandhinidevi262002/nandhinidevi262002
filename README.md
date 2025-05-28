@@ -8,10 +8,7 @@
 </p>  
 
 <p align="center">
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=nandhinidevi262002&color=blue&style=flat-square" alt="Profile Views" />
-
-  <!-- Total Stars -->
   <img src="https://img.shields.io/github/stars/nandhinidevi262002?style=flat-square&color=yellow" alt="GitHub Stars" />
 </p>
 
@@ -23,15 +20,26 @@
 I'm a dedicated *Data Science enthusiast*, combining creativity with data-driven solutions. Currently, I'm diving deep into advanced AI models and exploring real-world applications.
 
 ✨ *Quick Facts:*   
-- 🌱 Always learning: *Generative AI, Django, Machine Learning, Deep Learning*, and *Streamlit*.  
+- 🌱 Always learning: *Generative AI, **Django, **Machine Learning, **Deep Learning* and *Streamlit*.  
 - 💡 Passionate about building scalable solutions for impactful industries.  
-- 📸 Passionate Visual Storyteller: Capturing moments, editing masterpieces, and crafting artistic wonders.  
-- 🎯 Visionary Data Specialist: Turning innovative ideas into transformative data solutions.  
+- 📸 Passionate Visual Storyteller: Capturing moments, editing masterpieces, and crafting artistic wonders.
+- 🎯 Visionary Data Specialist: Turning innovative ideas into transformative data solutions.
 
 ---
 
 ## 📂 Featured Projects
 
+### 🔹 **Gen AI Recommendation System Integrated Hybrid Deep Learning Model for Multi-class Ocular Disease Classification**  
+Built an integrated hybrid deep learning system combining **MobileNetV3Large** and **custom CNN** for multi-class ocular disease classification. Deployed a **user-friendly Streamlit app** for real-time retinal image analysis and disease prediction. Integrated **generative AI** using a local **LLaMA model** to deliver personalized educational content and treatment guidance. This solution enhances early detection and understanding of ocular diseases with **explainable AI**, supporting both clinicians and patients.
+
+### 🔹 **Enhanced BERT Model for Identifying Fake News**  
+Implemented a **scalable fake news detection system** using an enhanced **BERT model** capable of **multilingual text analysis** (English and Tamil). Evaluated multiple transformer models to maximize accuracy and adaptability. This project offers **real-time misinformation detection**, aiding **media platforms** and **fact-checkers** in efficiently identifying and flagging fake content.
+
+### 🔹 **A Loan Risk Prediction Model Using Convolutional Neural Networks and Stacking Fusion**  
+Developed a **loan risk prediction system** using **CNNs and hybrid stacking fusion** of deep learning with traditional ML techniques. The model aids **financial institutions** in **data-driven loan decisions**, improving approval speed and reducing default risk. Thorough evaluation ensures **robustness for real-world deployment**.
+
+### 🔹 **Gemini Chatbot Development Using Django**  
+Created a **chatbot solution** using the **Gemini API** and **Django framework**, featuring **real-time interaction** and seamless backend integration. Focused on building a **scalable, efficient, and intuitive chatbot**, this project demonstrates expertise in **conversational AI and full-stack development**.
 
 ---
 
@@ -107,7 +115,7 @@ I'm a dedicated *Data Science enthusiast*, combining creativity with data-driven
 ## 🏆 *Certifications*  
 
 <ul>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/X9V5RGM5PDSU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Generative AI with Large Language Models – DeepLearning.AI | Jul 2024</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/X9V5RGM5PDSU">Generative AI with Large Language Models – DeepLearning.AI | Jul 2024</a></li>
   <li><a href="https://www.cloudskillsboost.google/public_profiles/5a8a07c0-cc3c-4e09-8b2c-3a7af15ff086/badges/10320436">Prompt Design in Vertex AI – Google Cloud Skills Boost | Jul 2024</a></li>
   <li><a href="https://www.credly.com/badges/33b9309d-73d4-4fc9-ae21-5ee1559f2908/public_url">Introduction to Data Science – Cisco Networking Academy | Jun 2024</a></li>
 </ul>
