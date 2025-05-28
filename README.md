@@ -32,6 +32,17 @@ I'm a dedicated **Data Science enthusiast**, combining creativity with data-driv
 
 ## 📂 Featured Projects
 
+### 🤖 **Gen AI Recommendation System Integrated Hybrid Deep Learning Model for Multi-class Ocular Disease Classification**
+Built an integrated hybrid deep learning system combining MobileNetV3Large and custom CNN for multi-class ocular disease classification. Deployed a user-friendly Streamlit app allowing real time retinal image analysis and disease prediction. Incorporated generative AI with a local LLaMA model to provide personalized educational content and treatment guidance. Supports clinicians and patients by enhancing early detection and understanding of ocular diseases through explainable AI.
+
+### 📰 **Enhanced BERT Model for Identifying Fake News**
+Implemented a scalable fake news detection system utilizing enhanced BERT for multilingual text analysis. Enabled real-time identification of misinformation across English and Tamil news sources. Evaluated multiple transformer models to optimize performance and adaptability for different languages. Provides media platforms and fact-checkers with an efficient tool to monitor and flag fake news content.
+
+### 💰 **A Loan Risk Prediction Model Using Convolutional Neural Networks and Stacking Fusion**
+Developed a robust loan risk prediction system to assist financial institutions in informed decision-making. Enhanced model accuracy using a hybrid stacking approach combining deep learning and traditional ML. Optimized for real-world deployment with thorough evaluation across key performance metrics. Enables faster, data-driven loan approvals while minimizing default risk.
+
+### 💬 **Gemini Chatbot Development Using Django**
+Developed a chatbot using the Gemini API and Django framework for seamless backend integration. Implemented advanced conversational AI features with real-time user interaction. Focused on creating an efficient, scalable, and user-friendly chatbot solution.
 
 ---
 
@@ -42,17 +53,11 @@ I'm a dedicated **Data Science enthusiast**, combining creativity with data-driv
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" alt="Python" /></td> 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="48px" alt="R" /></td> 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48px" alt="SQL" /></td> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48px" alt="HTML" /></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48px" alt="CSS" /></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48px" alt="JavaScript" /></td>
   </tr> 
   <tr> 
     <td align="center"><strong>Python</strong></td> 
     <td align="center"><strong>R Language</strong></td> 
-    <td align="center"><strong>SQL</strong></td> 
-    <td align="center"><strong>HTML</strong></td>
-    <td align="center"><strong>CSS</strong></td>
-    <td align="center"><strong>JavaScript</strong></td>
+    <td align="center"><strong>SQL</strong></td>
   </tr> 
 </table>
 
