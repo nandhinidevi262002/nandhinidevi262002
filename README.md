@@ -23,11 +23,11 @@
 I'm a dedicated *Data Science enthusiast*, combining creativity with data-driven solutions. Currently, I'm diving deep into advanced AI models and exploring real-world applications.
 
 ✨ *Quick Facts:*   
-- 🌱 Always learning: *Generative AI, **Django, **Machine Learning, **Deep Learning* and *Streamlit*.  
+- 🌱 Always learning: *Generative AI, Django, Machine Learning, Deep Learning*, and *Streamlit*.  
 - 💡 Passionate about building scalable solutions for impactful industries.  
-- 📸 Passionate Visual Storyteller: Capturing moments, editing masterpieces, and crafting artistic wonders.
-- 🎯 Visionary Data Specialist: Turning innovative ideas into transformative data solutions.
-  
+- 📸 Passionate Visual Storyteller: Capturing moments, editing masterpieces, and crafting artistic wonders.  
+- 🎯 Visionary Data Specialist: Turning innovative ideas into transformative data solutions.  
+
 ---
 
 ## 📂 Featured Projects
@@ -56,6 +56,7 @@ I'm a dedicated *Data Science enthusiast*, combining creativity with data-driven
 - Streamlit  
 
 ----
+
 ## 🔧 *Technical Toolbox*  
 
 <table align="center"> 
@@ -94,16 +95,10 @@ I'm a dedicated *Data Science enthusiast*, combining creativity with data-driven
   <tr> 
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48px" alt="Scikit-learn" /></td> 
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="48px" alt="SciPy" /></td> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48px" alt="HTML" /></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48px" alt="CSS" /></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48px" alt="JS" /></td>
   </tr> 
   <tr> 
     <td align="center">Scikit-learn</td> 
     <td align="center">SciPy</td> 
-    <td align="center">HTML</td>
-    <td align="center">CSS</td>
-    <td align="center">JS</td>
   </tr> 
 </table>
 
@@ -118,7 +113,6 @@ I'm a dedicated *Data Science enthusiast*, combining creativity with data-driven
 </ul>
 
 ---
-
 
 ## 📈 GitHub Stats
 <p align="center"> 
