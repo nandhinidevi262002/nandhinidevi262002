@@ -20,102 +20,59 @@
 I'm a dedicated *Data Science enthusiast*, combining creativity with data-driven solutions. Currently, I'm diving deep into advanced AI models and exploring real-world applications.
 
 ✨ *Quick Facts:*   
-- 🌱 Always learning: *Generative AI, **Django, **Machine Learning, **Deep Learning* and *Streamlit*.  
+- 🌱 Always learning: *Generative AI, Django, Machine Learning, Deep Learning* and *Streamlit*.  
 - 💡 Passionate about building scalable solutions for impactful industries.  
-- 📸 Passionate Visual Storyteller: Capturing moments, editing masterpieces, and crafting artistic wonders.
+- 📸 Passionate Visual Storyteller: Capturing moments, editing masterpieces, and crafting artistic wonders.  
 - 🎯 Visionary Data Specialist: Turning innovative ideas into transformative data solutions.
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 **Gen AI Recommendation System Integrated Hybrid Deep Learning Model for Multi-class Ocular Disease Classification**  
-Built an integrated hybrid deep learning system combining **MobileNetV3Large** and **custom CNN** for multi-class ocular disease classification. Deployed a **user-friendly Streamlit app** for real-time retinal image analysis and disease prediction. Integrated **generative AI** using a local **LLaMA model** to deliver personalized educational content and treatment guidance. This solution enhances early detection and understanding of ocular diseases with **explainable AI**, supporting both clinicians and patients.
+### 📌 Gen AI Recommendation System Integrated Hybrid Deep Learning Model for Multi-class Ocular Disease Classification  
+Built an integrated hybrid deep learning system combining MobileNetV3Large and custom CNN for multi-class ocular disease classification. Deployed a user-friendly Streamlit app allowing real-time retinal image analysis and disease prediction. Incorporated generative AI with a local LLaMA model to provide personalized educational content and treatment guidance.
 
-### 🔹 **Enhanced BERT Model for Identifying Fake News**  
-Implemented a **scalable fake news detection system** using an enhanced **BERT model** capable of **multilingual text analysis** (English and Tamil). Evaluated multiple transformer models to maximize accuracy and adaptability. This project offers **real-time misinformation detection**, aiding **media platforms** and **fact-checkers** in efficiently identifying and flagging fake content.
+### 📌 Enhanced BERT Model for Identifying Fake News  
+Implemented a scalable fake news detection system utilizing enhanced BERT for multilingual text analysis. Enabled real-time identification of misinformation across English and Tamil news sources. Evaluated multiple transformer models to optimize performance and adaptability for different languages.
 
-### 🔹 **A Loan Risk Prediction Model Using Convolutional Neural Networks and Stacking Fusion**  
-Developed a **loan risk prediction system** using **CNNs and hybrid stacking fusion** of deep learning with traditional ML techniques. The model aids **financial institutions** in **data-driven loan decisions**, improving approval speed and reducing default risk. Thorough evaluation ensures **robustness for real-world deployment**.
+### 📌 A Loan Risk Prediction Model Using Convolutional Neural Networks and Stacking Fusion  
+Developed a robust loan risk prediction system to assist financial institutions in informed decision-making. Enhanced model accuracy using a hybrid stacking approach combining deep learning and traditional ML. Optimized for real-world deployment with thorough evaluation across key performance metrics.
 
-### 🔹 **Gemini Chatbot Development Using Django**  
-Created a **chatbot solution** using the **Gemini API** and **Django framework**, featuring **real-time interaction** and seamless backend integration. Focused on building a **scalable, efficient, and intuitive chatbot**, this project demonstrates expertise in **conversational AI and full-stack development**.
+### 📌 Gemini Chatbot Development Using Django  
+Developed a chatbot using the Gemini API and Django framework for seamless backend integration. Implemented advanced conversational AI features with real-time user interaction. Focused on creating an efficient, scalable, and user-friendly chatbot solution.
 
 ---
 
-## 🚀 Skills
+## 🧠 Skills
 
-### *Programming Languages*  
-- Python  
-- R Language  
-- SQL  
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming-R Language-blue?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming-SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### *Tools and Software*  
-- VS Code  
-- GitHub  
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-### *Data Visualization Tools*  
-- Excel  
-- Power BI  
-- Tableau  
+<p align="center">
+  <img src="https://img.shields.io/badge/DataViz-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataViz-Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DataViz-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
-### *Frameworks*  
-- Django  
-- Streamlit  
-
-----
-
-## 🔧 *Technical Toolbox*  
-
-<table align="center"> 
-  <tr> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" alt="Python" /></td> 
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48px" alt="Django" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48px" alt="TensorFlow" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="48px" alt="R" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48px" alt="SQL" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48px" alt="Pandas" /></td>  
-  </tr> 
-  <tr> 
-    <td align="center">Python</td> 
-    <td align="center">Django</td> 
-    <td align="center">TensorFlow</td> 
-    <td align="center">R</td> 
-    <td align="center">SQL</td> 
-    <td align="center">Pandas</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48px" alt="Jupyter Notebook" /></td> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48px" alt="Power BI" /></td> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="48px" alt="Excel" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48px" alt="Keras" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48px" alt="Matplotlib" /></td> 
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48px" alt="NumPy" /></td> 
-  </tr> 
-  <tr> 
-    <td align="center">Jupyter Notebook</td> 
-    <td align="center">Power BI</td> 
-    <td align="center">Excel</td> 
-    <td align="center">Keras</td> 
-    <td align="center">Matplotlib</td> 
-    <td align="center">NumPy</td> 
-  </tr> 
-  <tr> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48px" alt="Scikit-learn" /></td> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="48px" alt="SciPy" /></td> 
-  </tr> 
-  <tr> 
-    <td align="center">Scikit-learn</td> 
-    <td align="center">SciPy</td> 
-  </tr> 
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
 ## 🏆 *Certifications*  
 
 <ul>
-  <li><a href="https://www.coursera.org/account/accomplishments/verify/X9V5RGM5PDSU">Generative AI with Large Language Models – DeepLearning.AI | Jul 2024</a></li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/X9V5RGM5PDSU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Generative AI with Large Language Models – DeepLearning.AI | Jul 2024</a></li>
   <li><a href="https://www.cloudskillsboost.google/public_profiles/5a8a07c0-cc3c-4e09-8b2c-3a7af15ff086/badges/10320436">Prompt Design in Vertex AI – Google Cloud Skills Boost | Jul 2024</a></li>
   <li><a href="https://www.credly.com/badges/33b9309d-73d4-4fc9-ae21-5ee1559f2908/public_url">Introduction to Data Science – Cisco Networking Academy | Jun 2024</a></li>
 </ul>
@@ -123,6 +80,7 @@ Created a **chatbot solution** using the **Gemini API** and **Django framework**
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhinidevi262002&theme=radical&hide_border=true" alt="GitHub Streak" /> 
   <br /> 
@@ -134,6 +92,7 @@ Created a **chatbot solution** using the **Gemini API** and **Django framework**
 ---
 
 ## 💬 *Let’s Connect!*  
+
 <p align="center">  
   <a href="https://www.linkedin.com/in/nandhinidevi2605"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>  
   <a href="mailto:nandhinidevis2023@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
