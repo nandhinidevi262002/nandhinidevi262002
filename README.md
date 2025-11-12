@@ -32,6 +32,9 @@ I'm a dedicated **Data Science enthusiast**, combining creativity with data-driv
 
 ## 📂 Featured Projects
 
+### ⚡**RT Weave Agent**
+Developed an intelligent automation system integrating AI agents for real-time data processing and decision support. Implemented FastAPI for efficient API orchestration and MCP for modular AI agent coordination. Contributed to designing scalable backend systems and optimizing data pipelines to enhance performance, reliability, and deployment efficiency.
+
 ### 🤖 **Gen AI Recommendation System Integrated Hybrid Deep Learning Model for Multi-class Ocular Disease Classification**
 Built an integrated hybrid deep learning system combining MobileNetV3Large and custom CNN for multi-class ocular disease classification. Deployed a user-friendly Streamlit app allowing real time retinal image analysis and disease prediction. Incorporated generative AI with a local LLaMA model to provide personalized educational content and treatment guidance. Supports clinicians and patients by enhancing early detection and understanding of ocular diseases through explainable AI.
 
